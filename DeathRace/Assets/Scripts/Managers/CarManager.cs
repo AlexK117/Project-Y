@@ -1,0 +1,65 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+[System.Serializable]
+public class CarManager
+{
+
+  public Color m_PlayerColor;
+  public Transform m_SpawnPoint;
+  [HideInInspector] public int m_PlayerNumber;
+  [HideInInspector] public string m_ColoredPlayerText;
+  [HideInInspector] public GameObject m_Instance;
+  [HideInInspector] public int m_Wins;
+
+  private CarMovement m_Movement;
+  private CarShooting m_Shooting;
+  private Camera thisCamera;
+
+  public void Setup()
+  {
+    m_Movement = m_Instance.GetComponent<CarMovement>();
+    m_Shooting = m_Instance.GetComponent<CarShooting>();
+    thisCamera = m_Instance.GetComponentInChildren<Camera>();
+
+    m_Movement.m_PlayerNumber = m_PlayerNumber;
+    m_Shooting.m_PlayerNumber = m_PlayerNumber;
+
+    m_ColoredPlayerText = "<color=#" + ColorUtility.ToHtmlStringRGB(m_PlayerColor) + ">PLAYER " + m_PlayerNumber + "</color>";
+
+    MeshRenderer[] renderers = m_Instance.GetComponentsInChildren<MeshRenderer>();
+
+    for (int i = 0; i < renderers.Length; i++)
+    {
+      renderers[i].material.color = m_PlayerColor;
+    }
+  }
+
+  public void DisableControl()
+  {
+    m_Movement.enabled = false;
+    m_Shooting.enabled = false;
+  }
+
+  public void EnableControl()
+  {
+    m_Movement.enabled = true;
+    m_Shooting.enabled = true;
+  }
+
+  public void Reset()
+  {
+    m_Instance.transform.position = m_SpawnPoint.position;
+    m_Instance.transform.rotation = m_SpawnPoint.rotation;
+
+    m_Instance.SetActive(false);
+    m_Instance.SetActive(true);
+  }
+
+  public void AdjustCamera(float X, float Y, float W, float H)
+  {
+    thisCamera.rect = new Rect(X, Y, W, H);
+  }
+
+}
