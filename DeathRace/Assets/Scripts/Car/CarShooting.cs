@@ -43,8 +43,10 @@ public class CarShooting : MonoBehaviour {
       Rigidbody shellInstanceL = Instantiate(m_Shell, m_LeftGun.position, m_LeftGun.rotation) as Rigidbody;
       Rigidbody shellInstanceR = Instantiate(m_Shell, m_RightGun.position, m_RightGun.rotation) as Rigidbody;
 
-      shellInstanceL.velocity = (m_ShellVelocity+m_MovementScript.Velocity) * m_LeftGun.forward;
-      shellInstanceR.velocity = (m_ShellVelocity+m_MovementScript.Velocity) * m_RightGun.forward;
+      shellInstanceL.velocity = (m_ShellVelocity + m_MovementScript.Velocity) * m_LeftGun.forward;
+      shellInstanceR.velocity = (m_ShellVelocity + m_MovementScript.Velocity) * m_RightGun.forward;
+
+            Debug.Log(m_MovementScript.Velocity);
 
       m_fired = true;
 
