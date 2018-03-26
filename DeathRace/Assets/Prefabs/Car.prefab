@@ -1113,8 +1113,8 @@ MonoBehaviour:
   m_Shell: {fileID: 54220482014595200, guid: 78e5237630d6ab144adde071c0acb5fa, type: 2}
   m_LeftGun: {fileID: 4985932265509566}
   m_RightGun: {fileID: 4031038565646702}
-  m_ShellVelocity: 200
-  m_Cooldown: 0.05
+  m_ShellVelocity: 3000
+  m_Cooldown: 0.1
 --- !u!114 &114599882011142478
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1160,14 +1160,15 @@ MonoBehaviour:
   m_RightWheel: {fileID: 4436496283948168}
   m_VCrit: 5
   m_TurnSpeed: 20
-  m_turnGradient: 0.001
+  m_turnGradient: 0.016
   m_turnSmoothing: 0.02
   m_ATop: 10
   m_BrakeStrength: 20
   m_RollDeceleration: 0.5
+  m_RollBackDeceleration: 3
   m_TopSpeed: 50
   m_ReverseTopSpeed: -10
-  m_DeadZone: 0.1
+  m_DeadZone: 1
   m_SpeedDamping: 0.2
   m_SpeedTravel: 9
   m_TurnDamping: 0.05
