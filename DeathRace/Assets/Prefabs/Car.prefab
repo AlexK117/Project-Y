@@ -281,6 +281,7 @@ GameObject:
   - component: {fileID: 54215297475375040}
   - component: {fileID: 114546429762754150}
   - component: {fileID: 114652824345607730}
+  - component: {fileID: 114587778978424088}
   m_Layer: 8
   m_Name: Car
   m_TagString: Untagged
@@ -1115,6 +1116,17 @@ MonoBehaviour:
   m_RightGun: {fileID: 4031038565646702}
   m_ShellVelocity: 3000
   m_Cooldown: 0.1
+--- !u!114 &114587778978424088
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1881601887442822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5cf5dfca097c2d429d058ff28a5a609, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114599882011142478
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1158,6 +1170,8 @@ MonoBehaviour:
   m_Chassi: {fileID: 4963476183809236}
   m_LeftWheel: {fileID: 4913769363657062}
   m_RightWheel: {fileID: 4436496283948168}
+  m_JumpForce: 10
+  m_JumpDelay: 0.2
   m_VCrit: 5
   m_TurnSpeed: 20
   m_turnGradient: 0.016
