@@ -289,6 +289,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Camera\CameraControl.cs" />
+    <Compile Include="Assets\Scripts\Car\CarAircontrol.cs" />
     <Compile Include="Assets\Scripts\Car\CarHealth.cs" />
     <Compile Include="Assets\Scripts\Car\CarMovement.cs" />
     <Compile Include="Assets\Scripts\Car\CarShooting.cs" />
