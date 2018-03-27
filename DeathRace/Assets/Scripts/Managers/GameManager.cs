@@ -28,7 +28,7 @@ public class GameManager : MonoBehaviour
 
     MenuCamera.gameObject.SetActive(false);
 
-  }
+    }
 
   public void Set2Players()
   {
