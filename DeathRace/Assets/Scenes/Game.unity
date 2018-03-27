@@ -1485,14 +1485,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 11
       objectReference: {fileID: 0}
-    - target: {fileID: 1805311986204288, guid: 888b83c31678e764ab3f9aaaadeadc40, type: 2}
-      propertyPath: m_Name
-      value: LeftFWheelAxis
-      objectReference: {fileID: 0}
-    - target: {fileID: 1145577436382274, guid: 888b83c31678e764ab3f9aaaadeadc40, type: 2}
-      propertyPath: m_Name
-      value: RightFWheelAxis
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 888b83c31678e764ab3f9aaaadeadc40, type: 2}
   m_IsPrefabParent: 0
