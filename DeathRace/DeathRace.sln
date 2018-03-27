@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeathRace", "DeathRace.csproj", "{AE7CA897-4F4F-DDD1-614C-9383A768A6AB}"
 EndProject
 Global
