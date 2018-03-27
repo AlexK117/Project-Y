@@ -50,7 +50,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4436496283948168}
   m_Layer: 0
-  m_Name: RightFWheelAxis
+  m_Name: RightWheelAxis
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -243,7 +243,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4913769363657062}
   m_Layer: 0
-  m_Name: LeftFWheelAxis
+  m_Name: LeftWheelAxis
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1114,7 +1114,7 @@ MonoBehaviour:
   m_Shell: {fileID: 54220482014595200, guid: 78e5237630d6ab144adde071c0acb5fa, type: 2}
   m_LeftGun: {fileID: 4985932265509566}
   m_RightGun: {fileID: 4031038565646702}
-  m_ShellVelocity: 200
+  m_ShellVelocity: 3000
   m_Cooldown: 0.1
 --- !u!114 &114587778978424088
 MonoBehaviour:
