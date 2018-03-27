@@ -22,6 +22,7 @@ MonoBehaviour:
   m_RootView: {fileID: 2}
   m_MinSize: {x: 950, y: 613}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     width: 1920
     height: 997
@@ -35,6 +36,8 @@ MonoBehaviour:
   m_MinSize: {x: 950, y: 300}
 >>>>>>> b4abf9c34664d700c423f63ac618ab40560730c0
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
   m_MaxSize: {x: 10000, y: 10000}
@@ -54,6 +57,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 631
     width: 234
     height: 316
@@ -65,6 +69,8 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 =======
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     y: 0
     width: 1280
     height: 637
@@ -91,6 +97,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 234
     height: 947
   m_MinSize: {x: 234, y: 492}
@@ -101,13 +108,19 @@ MonoBehaviour:
 <<<<<<< HEAD
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     width: 1280
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastLoadedLayoutName: 2 by 3
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
+=======
+  m_LastLoadedLayoutName: 
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
   m_LastLoadedLayoutName: 
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
@@ -131,6 +144,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 0
     width: 1920
     height: 997
@@ -138,6 +152,8 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     y: 617
@@ -164,6 +180,7 @@ MonoBehaviour:
   - {fileID: 6}
   - {fileID: 10}
   - {fileID: 13}
+<<<<<<< HEAD
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
   m_Position:
     serializedVersion: 2
@@ -176,6 +193,11 @@ MonoBehaviour:
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 2 by 3
 =======
+=======
+  m_Position:
+    serializedVersion: 2
+    x: 0
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     y: 30
     width: 1280
     height: 587
@@ -183,6 +205,7 @@ MonoBehaviour:
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
   controlID: 1842
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     width: 1920
@@ -199,6 +222,8 @@ MonoBehaviour:
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -212,6 +237,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 8}
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 3}
   - {fileID: 10}
@@ -230,6 +256,12 @@ MonoBehaviour:
   vertical: 0
   controlID: 375
 =======
+=======
+  - {fileID: 9}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     y: 0
     width: 520
     height: 587
@@ -237,6 +269,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4002, y: 12063}
   vertical: 1
   controlID: 1909
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -256,6 +289,8 @@ MonoBehaviour:
 >>>>>>> e5cc168f4a0f06dc495a4d25f1fa896cf11aac3c
 >>>>>>> b4abf9c34664d700c423f63ac618ab40560730c0
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 --- !u!114 &7
@@ -305,6 +340,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 977
     width: 1920
     height: 20
@@ -312,6 +348,8 @@ MonoBehaviour:
   m_MaxSize: {x: 0, y: 0}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     y: 221
@@ -325,8 +363,12 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
 --- !u!114 &8
+=======
+--- !u!114 &9
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 --- !u!114 &9
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
@@ -375,9 +417,12 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     x: 520
@@ -388,6 +433,7 @@ MonoBehaviour:
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
   controlID: 1843
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -417,6 +463,8 @@ MonoBehaviour:
 >>>>>>> b4abf9c34664d700c423f63ac618ab40560730c0
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -443,8 +491,12 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &11
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
+=======
+--- !u!114 &12
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 --- !u!114 &12
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
@@ -464,6 +516,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 0
     width: 234
     height: 631
@@ -477,6 +530,8 @@ MonoBehaviour:
 --- !u!114 &10
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     y: 316
@@ -744,6 +799,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 486
     width: 1409
     height: 461
@@ -759,14 +815,19 @@ MonoBehaviour:
 <<<<<<< HEAD
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     y: 556
     width: 518
     height: 102
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &18
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> e5cc168f4a0f06dc495a4d25f1fa896cf11aac3c
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 MonoBehaviour:
@@ -792,8 +853,11 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     x: 522
@@ -806,6 +870,7 @@ MonoBehaviour:
     m_SelectedIDs: aa280000
     m_LastClickedID: 0
     m_ExpandedIDs: 5c81feff6cf5fffff6f6ffff12f8ffff9efbffff00000000722d0000862d0000be2d0000302e0000
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -839,6 +904,8 @@ MonoBehaviour:
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -865,6 +932,7 @@ MonoBehaviour:
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &14
 MonoBehaviour:
@@ -904,6 +972,9 @@ MonoBehaviour:
 =======
 --- !u!114 &19
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
+=======
+--- !u!114 &19
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -927,14 +998,18 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     x: 522
     y: 408
     width: 479
     height: 250
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -953,6 +1028,8 @@ MonoBehaviour:
 >>>>>>> e5cc168f4a0f06dc495a4d25f1fa896cf11aac3c
 >>>>>>> b4abf9c34664d700c423f63ac618ab40560730c0
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -982,6 +1059,7 @@ MonoBehaviour:
     m_LastClickedID: 10490
     m_ExpandedIDs: 000000007c280000522900007a290000882900000a2a0000502c000000ca9a3bffffff7f
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_LastProjectPath: C:\Users\Alex\Documents\GitHub\Project-Y\DeathRace
   m_IsLocked: 0
@@ -1003,6 +1081,8 @@ MonoBehaviour:
 >>>>>>> e5cc168f4a0f06dc495a4d25f1fa896cf11aac3c
 >>>>>>> b4abf9c34664d700c423f63ac618ab40560730c0
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     m_RenameOverlay:
@@ -1034,6 +1114,7 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 000000007028000098280000ec280000442900006a290000922d000000ca9a3bffffff7f
 =======
 <<<<<<< HEAD
@@ -1046,6 +1127,9 @@ MonoBehaviour:
 >>>>>>> e5cc168f4a0f06dc495a4d25f1fa896cf11aac3c
 >>>>>>> b4abf9c34664d700c423f63ac618ab40560730c0
 >>>>>>> 2435b3a08f96fc9337c74288951704fabd4dae04
+=======
+    m_ExpandedIDs: 000000007c280000522900007a290000882900000a2a0000502c000000ca9a3bffffff7f
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 =======
     m_ExpandedIDs: 000000007c280000522900007a290000882900000a2a0000502c000000ca9a3bffffff7f
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
@@ -1104,6 +1188,7 @@ MonoBehaviour:
     m_GridSize: 16
   m_DirectoriesAreaWidth: 257
 --- !u!114 &20
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
   m_DirectoriesAreaWidth: 110
@@ -1188,6 +1273,8 @@ MonoBehaviour:
 >>>>>>> b4abf9c34664d700c423f63ac618ab40560730c0
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_PrefabParentObject: {fileID: 0}
@@ -1211,6 +1298,7 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 92
     width: 1407
@@ -1219,10 +1307,13 @@ MonoBehaviour:
 <<<<<<< HEAD
 =======
 >>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
     x: 1005
     y: 92
     width: 275
     height: 566
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -1290,6 +1381,8 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 =======
+=======
+>>>>>>> parent of 2435b3a... Merge branch 'master' of https://github.com/AlexK117/Project-Y
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
